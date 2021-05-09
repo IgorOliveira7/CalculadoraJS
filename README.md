@@ -1,4 +1,4 @@
-# CalculadoraJS
+# Calculadora
 ✔️ JavaScript<br>✔️ HTML<br> ✔️ CSS<br>
 - É possivel apagar números digitados um por vez clicando no &laquo;.
 - Apagar a conta e refazê-la com o botão C.<br> 
